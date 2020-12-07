@@ -15,13 +15,13 @@ transactions = ['bank_deposit', 'bank_withdrawal', 'blockchain_deposit', 'blockc
 def translate(date: str, transaction: str, currency: str, amount: str, account: str, base_currency,
               base_amount) -> str:
     switcher: Dict[str, str] = {
-        "bank_deposit": ',{0},{1},'.format(amount, currency),
-        'bank_withdrawal': ',{0},{1},'.format(amount, currency),
-        'blockchain_deposit': ',{0},{1},,'.format(amount, currency),
-        'blockchain_withdrawal': ',{0},{1}'.format(amount, currency),
-        'interest_earnings': ',{0},{1},'.format(amount, currency),
-        'trade_buy': ',{0},{1},{2}'.format(amount, currency, base_amount),
-        'trade_sell': ',{0},{2},{1}'.format(amount, base_amount, base_currency),
+        "bank_deposit": ',{0},{1},,,,'.format(amount, currency),
+        'bank_withdrawal': ',{0},{1},,,,'.format(amount, currency),
+        'blockchain_deposit': ',{0},{1},,,,'.format(amount, currency),
+        'blockchain_withdrawal': ',{0},{1},,,,'.format(amount, currency),
+        'interest_earnings': ',{0},{1},,,,'.format(amount, currency),
+        'trade_buy': ',{0},{1},{2},{3},,,'.format(amount, currency, base_amount, base_currency),
+        'trade_sell': ',{0},{1},{2},{3},,,'.format(base_amount, base_currency, amount, currency),
     }
 
     return get_date(date) + switcher[transaction] + ',{0}'.format(account)
@@ -32,7 +32,7 @@ with open('sample/cointracker_csv_import_v4 (3).csv', 'r', newline='') as cointr
         with open('output/translated.csv', 'w+') as newFile:
             anchorRead: str = anchorcsv.readline()
             output = [
-                'Date,Received Quantity,Received Currency,Sent Quantity,Sent Currency,Fee Amount,Fee Currency,Tag\n' ]
+                'Date,Received Quantity,Received Currency,Sent Quantity,Sent Currency,Fee Amount,Fee Currency,Tag\n']
             for row in anchorcsv:
                 items = row.split(',')
 
