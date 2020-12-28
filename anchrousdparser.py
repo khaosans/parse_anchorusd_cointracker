@@ -16,9 +16,9 @@ def translate(date: str, transaction: str, currency: str, amount: str, account: 
               base_amount) -> str:
     switcher: Dict[str, str] = {
         "bank_deposit": ',{0},{1},,,,'.format(amount, currency),
-        'bank_withdrawal': ',{0},{1},,,,'.format(amount, currency),
+        'bank_withdrawal': ',,,{0},{1},,'.format(amount, currency),
         'blockchain_deposit': ',{0},{1},,,,'.format(amount, currency),
-        'blockchain_withdrawal': ',{0},{1},,,,'.format(amount, currency),
+        'blockchain_withdrawal': ',,,{0},{1},,'.format(amount, currency),
         'interest_earnings': ',{0},{1},,,,'.format(amount, currency),
         'trade_buy': ',{0},{1},{2},{3},,,'.format(amount, currency, base_amount, base_currency),
         'trade_sell': ',{0},{1},{2},{3},,,'.format(base_amount, base_currency, amount, currency),
