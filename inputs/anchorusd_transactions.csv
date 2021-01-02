@@ -1,0 +1,469 @@
+Time,Type,Quote Currency,Quote Currency Amount,Quote Currency Fee Amount,Quote Currency Net Amount,Base Currency,Base Currency Amount,External Account
+2020-11-12 10:38:49 UTC,interest_earnings,USDC,0.095231,,,,,
+2020-11-12 10:37:44 UTC,interest_earnings,XLM,0.066220,,,,,
+2020-11-12 10:36:34 UTC,interest_earnings,USD,0.02,,,,,
+2020-11-12 05:35:04 UTC,blockchain_withdrawal,USDC,300.000000,,,,,0x4B0eB24D051eE2CCF16a6Cf29E8490FbA9de20e4
+2020-11-11 10:10:33 UTC,interest_earnings,USDC,0.148132,,,,,
+2020-11-11 10:09:22 UTC,interest_earnings,XLM,0.062425,,,,,
+2020-11-11 10:07:53 UTC,interest_earnings,USD,0.01,,,,,
+2020-11-11 07:14:16 UTC,blockchain_deposit,USDC,761.370834,,,,,
+2020-11-11 06:30:38 UTC,blockchain_withdrawal,DAI,1588.846491,,,,,0x2E2Ea30Ba045Df4bC38e80cF11E119E12e06C1C2
+2020-11-11 06:29:55 UTC,trade_buy,DAI,1588.846491,,,USD,1610.19,
+2020-11-11 06:28:57 UTC,trade_sell,BTC,0.103735,,,USD,1575.18,
+2020-11-10 11:04:24 UTC,interest_earnings,BTC,0.000012,,,,,
+2020-11-10 11:03:45 UTC,interest_earnings,USD,0.01,,,,,
+2020-11-10 02:00:54 UTC,trade_buy,BTC,0.006716,,,USD,105.03,
+2020-11-09 16:11:44 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-11-09 10:07:06 UTC,interest_earnings,BTC,0.000011,,,,,
+2020-11-09 10:06:33 UTC,interest_earnings,USD,0.01,,,,,
+2020-11-08 10:30:36 UTC,interest_earnings,BTC,0.000011,,,,,
+2020-11-08 10:29:57 UTC,interest_earnings,USD,0.01,,,,,
+2020-11-08 09:59:25 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-11-07 21:00:07 UTC,blockchain_withdrawal,LINK,9.964894,,,,,0x2E2Ea30Ba045Df4bC38e80cF11E119E12e06C1C2
+2020-11-07 12:06:30 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-11-07 10:45:35 UTC,interest_earnings,LINK,0.001107,,,,,
+2020-11-07 10:44:56 UTC,interest_earnings,BTC,0.000011,,,,,
+2020-11-06 11:08:23 UTC,trade_buy,BTC,0.096975,,,USD,1535.01,
+2020-11-06 11:07:23 UTC,bank_deposit,USD,1500.00,,,,,OnPoint Community Credit Union 6673
+2020-11-06 10:46:58 UTC,interest_earnings,LINK,0.001122,,,,,
+2020-11-06 10:45:26 UTC,interest_earnings,USD,0.01,,,,,
+2020-11-06 09:32:57 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-11-06 07:10:17 UTC,blockchain_withdrawal,BTC,0.007109,,,,,bc1qlxzphp38zunjhx5jpv8u85vwzutld7j0r3gmsc
+2020-11-05 18:25:56 UTC,trade_buy,BTC,0.002298,,,USD,35.00,
+2020-11-05 14:15:49 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-11-05 10:28:03 UTC,interest_earnings,LINK,0.001102,,,,,
+2020-11-05 10:27:24 UTC,interest_earnings,BTC,0.000001,,,,,
+2020-11-05 06:32:14 UTC,trade_buy,BTC,0.004811,,,USD,70.02,
+2020-11-05 06:28:28 UTC,blockchain_withdrawal,DAI,103.591396,,,,,0xf8EC1aaBE8D0b233f89A9b7914142FF1817EBEF2
+2020-11-04 10:35:54 UTC,interest_earnings,DAI,0.015694,,,,,
+2020-11-04 10:34:55 UTC,interest_earnings,LINK,0.001114,,,,,
+2020-11-04 10:33:21 UTC,interest_earnings,USD,0.02,,,,,
+2020-11-04 09:41:05 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-11-03 10:27:36 UTC,interest_earnings,DAI,0.015692,,,,,
+2020-11-03 10:26:46 UTC,interest_earnings,LINK,0.001114,,,,,
+2020-11-03 10:25:17 UTC,interest_earnings,USD,0.01,,,,,
+2020-11-03 10:22:39 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-11-03 09:07:16 UTC,trade_buy,LINK,9.959335,,,USD,105.03,
+2020-11-02 10:19:16 UTC,interest_earnings,DAI,0.015391,,,,,
+2020-11-02 10:17:05 UTC,interest_earnings,USD,0.02,,,,,
+2020-11-02 10:10:32 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-11-01 13:05:31 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-11-01 10:38:29 UTC,interest_earnings,DAI,0.015905,,,,,
+2020-11-01 10:36:49 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-31 10:39:29 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-31 10:10:07 UTC,interest_earnings,DAI,0.015562,,,,,
+2020-10-30 18:48:35 UTC,trade_buy,DAI,103.513151,,,USD,105.05,
+2020-10-30 10:10:50 UTC,interest_earnings,USD,0.02,,,,,
+2020-10-30 09:01:49 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-29 10:01:07 UTC,interest_earnings,XLM,0.063948,,,,,
+2020-10-29 10:00:07 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-29 09:02:02 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-28 10:22:54 UTC,interest_earnings,XLM,0.065540,,,,,
+2020-10-28 10:21:57 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-28 09:14:10 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-28 06:48:07 UTC,trade_buy,XLM,849.383347,,,USD,70.01,
+2020-10-28 06:47:34 UTC,blockchain_withdrawal,BTC,0.034261,,,,,bc1qlxzphp38zunjhx5jpv8u85vwzutld7j0r3gmsc
+2020-10-27 12:19:15 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-27 10:08:42 UTC,interest_earnings,BTC,0.000004,,,,,
+2020-10-27 10:08:03 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-26 10:16:17 UTC,interest_earnings,BTC,0.000004,,,,,
+2020-10-26 10:15:53 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-26 09:52:03 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-26 02:53:34 UTC,trade_buy,BTC,0.002635,,,USD,35.01,
+2020-10-25 10:42:57 UTC,interest_earnings,BTC,0.000004,,,,,
+2020-10-25 10:42:20 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-25 09:12:30 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-25 01:29:04 UTC,blockchain_withdrawal,DAI,103.668601,,,,,0x2E2Ea30Ba045Df4bC38e80cF11E119E12e06C1C2
+2020-10-25 01:28:39 UTC,trade_buy,DAI,34.596478,,,USD,35.01,
+2020-10-24 10:03:18 UTC,interest_earnings,DAI,0.010109,,,,,
+2020-10-24 10:01:12 UTC,interest_earnings,BTC,0.000003,,,,,
+2020-10-24 10:00:30 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-24 09:07:56 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-24 02:56:27 UTC,trade_buy,DAI,69.062014,,,USD,70.01,
+2020-10-23 11:08:11 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-23 10:42:35 UTC,interest_earnings,BTC,0.000004,,,,,
+2020-10-23 10:42:01 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-22 12:32:19 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-22 10:04:38 UTC,interest_earnings,BTC,0.000003,,,,,
+2020-10-22 02:26:31 UTC,trade_buy,BTC,0.002697,,,USD,35.01,
+2020-10-21 10:23:24 UTC,interest_earnings,BTC,0.000003,,,,,
+2020-10-21 10:22:38 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-21 09:00:43 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-21 04:03:23 UTC,trade_buy,BTC,0.002828,,,USD,35.01,
+2020-10-20 10:19:26 UTC,interest_earnings,BTC,0.000003,,,,,
+2020-10-20 10:18:59 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-20 09:22:44 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-19 14:31:11 UTC,blockchain_withdrawal,ETH,0.090778,,,,,0xf8EC1aaBE8D0b233f89A9b7914142FF1817EBEF2
+2020-10-19 14:28:21 UTC,trade_buy,ETH,0.090778,,,USD,35.01,
+2020-10-19 10:36:39 UTC,interest_earnings,BTC,0.000003,,,,,
+2020-10-19 10:35:20 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-19 09:59:42 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-18 21:58:12 UTC,blockchain_withdrawal,DAI,34.510468,,,,,0x2E2Ea30Ba045Df4bC38e80cF11E119E12e06C1C2
+2020-10-18 21:57:28 UTC,trade_buy,DAI,34.510468,,,USD,35.01,
+2020-10-18 10:07:15 UTC,interest_earnings,BTC,0.000003,,,,,
+2020-10-18 10:06:50 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-18 08:48:36 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-18 06:30:16 UTC,blockchain_withdrawal,XLM,798.989488,,,,,GBB34FHSVNIW7NKCSKYNY7JOERXAWW7A54DGF3V4PRZVZEZOM7UNYHOV memo Block card from anchorusd
+2020-10-18 06:29:42 UTC,trade_buy,XLM,798.989488,,,USD,65.68,
+2020-10-18 06:28:18 UTC,trade_sell,ZRX,169.803086,,,USD,65.68,
+2020-10-17 18:29:57 UTC,trade_buy,ZRX,169.803086,,,USD,65.29,
+2020-10-17 18:29:30 UTC,trade_sell,UNI,10.182656,,,USD,30.28,
+2020-10-17 10:45:33 UTC,interest_earnings,UNI,0.000107,,,,,
+2020-10-17 10:44:27 UTC,interest_earnings,BTC,0.000003,,,,,
+2020-10-17 10:43:54 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-17 08:12:57 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-17 00:32:04 UTC,trade_buy,BTC,0.003055,,,USD,35.01,
+2020-10-16 10:24:33 UTC,interest_earnings,UNI,0.000105,,,,,
+2020-10-16 10:23:23 UTC,interest_earnings,BTC,0.000003,,,,,
+2020-10-16 10:22:54 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-16 09:05:45 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-16 06:20:41 UTC,trade_buy,BTC,0.006073,,,USD,70.02,
+2020-10-15 10:25:21 UTC,interest_earnings,UNI,0.000106,,,,,
+2020-10-15 10:24:10 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-10-15 10:23:42 UTC,interest_earnings,USD,0.02,,,,,
+2020-10-15 09:12:53 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-14 10:23:40 UTC,interest_earnings,UNI,0.000104,,,,,
+2020-10-14 10:22:34 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-10-14 10:22:12 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-14 09:14:04 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-14 06:17:47 UTC,trade_buy,UNI,10.182234,,,USD,35.01,
+2020-10-13 10:41:16 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-10-13 10:40:35 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-13 09:07:50 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-13 08:30:40 UTC,trade_buy,BTC,0.003006,,,USD,35.01,
+2020-10-12 10:14:32 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-10-12 10:14:06 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-12 09:00:34 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-11 10:28:34 UTC,blockchain_withdrawal,SNX,84.452664,,,,,0xa62de8E2DF7EbcDc8a1b8C7e3cf5a732502954d3
+2020-10-11 10:13:46 UTC,trade_buy,SNX,84.452664,,,USD,361.56,
+2020-10-11 10:12:15 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-10-11 10:11:50 UTC,interest_earnings,USD,0.08,,,,,
+2020-10-11 09:33:48 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-10 10:08:57 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-10-10 10:08:37 UTC,interest_earnings,USD,0.07,,,,,
+2020-10-10 09:00:31 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-10 07:15:55 UTC,trade_sell,ATOM,0.003916,,,USD,0.02,
+2020-10-10 07:15:29 UTC,trade_sell,ETH,0.693735,,,USD,256.39,
+2020-10-09 10:16:09 UTC,interest_earnings,ETH,0.000076,,,,,
+2020-10-09 10:16:00 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-10-09 10:14:35 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-09 09:31:22 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-09 07:36:04 UTC,blockchain_withdrawal,XLM,1884.236445,,,,,GBQWV5EOM262WBBM2LEFLEE6KDXEQSX7U4JHBZZVMC4C3CCCMKPLJAX7 memo From anchor
+2020-10-09 07:33:07 UTC,trade_buy,XLM,1884.236445,,,USD,140.08,
+2020-10-08 10:40:44 UTC,interest_earnings,ETH,0.000079,,,,,
+2020-10-08 10:40:37 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-10-08 10:39:35 UTC,interest_earnings,USD,0.03,,,,,
+2020-10-08 09:00:40 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-07 10:21:33 UTC,interest_earnings,ETH,0.000077,,,,,
+2020-10-07 10:21:30 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-10-07 10:21:05 UTC,interest_earnings,USD,0.02,,,,,
+2020-10-07 09:19:53 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-06 10:28:23 UTC,interest_earnings,ETH,0.000078,,,,,
+2020-10-06 10:28:19 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-10-06 10:27:50 UTC,interest_earnings,USD,0.02,,,,,
+2020-10-06 09:33:51 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-05 10:19:03 UTC,interest_earnings,ETH,0.000077,,,,,
+2020-10-05 10:19:01 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-10-05 10:18:42 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-05 09:10:05 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-05 07:05:53 UTC,blockchain_withdrawal,DAI,68.933965,,,,,0x2E2Ea30Ba045Df4bC38e80cF11E119E12e06C1C2
+2020-10-05 07:05:17 UTC,trade_buy,DAI,68.933965,,,USD,70.02,
+2020-10-04 10:30:45 UTC,interest_earnings,ETH,0.000078,,,,,
+2020-10-04 10:30:41 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-10-04 10:30:19 UTC,interest_earnings,USD,0.02,,,,,
+2020-10-04 09:00:06 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-03 10:21:50 UTC,interest_earnings,ETH,0.000079,,,,,
+2020-10-03 10:21:44 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-10-03 10:21:08 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-03 08:51:14 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-02 10:33:24 UTC,trade_buy,ETH,0.204644,,,USD,70.02,
+2020-10-02 10:04:14 UTC,interest_earnings,ETH,0.000053,,,,,
+2020-10-02 10:04:09 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-10-02 10:03:35 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-02 09:04:29 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-01 10:40:31 UTC,interest_earnings,ETH,0.000056,,,,,
+2020-10-01 10:40:27 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-10-01 10:40:03 UTC,interest_earnings,USD,0.01,,,,,
+2020-10-01 09:03:00 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-10-01 07:08:59 UTC,blockchain_withdrawal,XLM,3077.598189,,,,,GBQWV5EOM262WBBM2LEFLEE6KDXEQSX7U4JHBZZVMC4C3CCCMKPLJAX7
+2020-10-01 07:06:59 UTC,trade_buy,XLM,3077.488556,,,USD,237.40,
+2020-10-01 07:06:24 UTC,trade_sell,LINK,9.548957,,,USD,96.50,
+2020-10-01 07:05:33 UTC,trade_sell,ZRX,259.176324,,,USD,105.89,
+2020-09-30 10:17:50 UTC,interest_earnings,ZRX,0.032430,,,,,
+2020-09-30 10:17:40 UTC,interest_earnings,LINK,0.001057,,,,,
+2020-09-30 10:17:34 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-30 10:17:17 UTC,interest_earnings,ETH,0.000055,,,,,
+2020-09-30 10:17:14 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-09-30 10:16:48 UTC,interest_earnings,USD,0.01,,,,,
+2020-09-30 09:03:21 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-29 19:50:26 UTC,trade_buy,ZRX,259.143893,,,USD,105.04,
+2020-09-29 10:24:35 UTC,interest_earnings,LINK,0.001054,,,,,
+2020-09-29 10:24:23 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-29 10:23:52 UTC,interest_earnings,ETH,0.000054,,,,,
+2020-09-29 10:23:46 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-09-29 10:23:03 UTC,interest_earnings,USD,0.02,,,,,
+2020-09-29 08:49:45 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-28 10:35:20 UTC,interest_earnings,LINK,0.001073,,,,,
+2020-09-28 10:35:06 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-28 10:34:42 UTC,interest_earnings,ETH,0.000055,,,,,
+2020-09-28 10:34:38 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-09-28 10:34:06 UTC,interest_earnings,USD,0.02,,,,,
+2020-09-28 09:06:37 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-27 10:20:20 UTC,interest_earnings,LINK,0.001045,,,,,
+2020-09-27 10:20:12 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-27 10:19:53 UTC,interest_earnings,ETH,0.000054,,,,,
+2020-09-27 10:19:50 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-09-27 10:19:27 UTC,interest_earnings,USD,0.01,,,,,
+2020-09-27 09:36:47 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-27 03:01:42 UTC,blockchain_withdrawal,USDC,53.474668,,,,,0x2E2Ea30Ba045Df4bC38e80cF11E119E12e06C1C2
+2020-09-27 03:01:05 UTC,trade_buy,USDC,50.000000,,,USD,50.00,
+2020-09-27 03:00:02 UTC,trade_sell,ETH,0.141157,,,USD,50.00,
+2020-09-26 21:14:58 UTC,trade_buy,LINK,6.726500,,,USD,70.02,
+2020-09-26 10:42:36 UTC,interest_earnings,USDC,0.000722,,,,,
+2020-09-26 10:42:07 UTC,interest_earnings,LINK,0.000322,,,,,
+2020-09-26 10:41:59 UTC,interest_earnings,XLM,0.000009,,,,,
+2020-09-26 10:41:43 UTC,interest_earnings,ETH,0.000072,,,,,
+2020-09-26 10:41:40 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-09-26 10:41:12 UTC,interest_earnings,USD,0.02,,,,,
+2020-09-26 09:16:02 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-25 10:04:17 UTC,interest_earnings,USDC,0.000696,,,,,
+2020-09-25 10:03:57 UTC,interest_earnings,LINK,0.000310,,,,,
+2020-09-25 10:03:51 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-25 10:03:35 UTC,interest_earnings,ETH,0.000070,,,,,
+2020-09-25 10:03:32 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-09-25 10:03:14 UTC,interest_earnings,USD,0.01,,,,,
+2020-09-25 09:11:01 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-24 10:19:17 UTC,interest_earnings,USDC,0.000705,,,,,
+2020-09-24 10:18:54 UTC,interest_earnings,LINK,0.000315,,,,,
+2020-09-24 10:18:47 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-24 10:18:32 UTC,interest_earnings,ETH,0.000071,,,,,
+2020-09-24 10:18:29 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-09-24 10:15:35 UTC,trade_buy,ETH,0.629163,,,USD,210.11,
+2020-09-24 09:53:24 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-23 10:13:54 UTC,interest_earnings,USDC,0.000695,,,,,
+2020-09-23 10:13:14 UTC,interest_earnings,LINK,0.000310,,,,,
+2020-09-23 10:13:00 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-23 10:12:15 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-09-23 10:11:13 UTC,interest_earnings,USD,0.04,,,,,
+2020-09-23 09:11:37 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-22 10:30:05 UTC,interest_earnings,USDC,0.000703,,,,,
+2020-09-22 10:29:44 UTC,interest_earnings,LINK,0.000313,,,,,
+2020-09-22 10:29:36 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-22 10:29:15 UTC,interest_earnings,BTC,0.000002,,,,,
+2020-09-22 10:28:50 UTC,interest_earnings,USD,0.03,,,,,
+2020-09-22 09:05:04 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-22 07:40:22 UTC,blockchain_deposit,BTC,0.013890,,,,,
+2020-09-21 10:29:09 UTC,interest_earnings,USDC,0.000697,,,,,
+2020-09-21 10:28:41 UTC,interest_earnings,LINK,0.000311,,,,,
+2020-09-21 10:28:32 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-21 10:27:32 UTC,interest_earnings,USD,0.02,,,,,
+2020-09-21 09:02:11 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-20 10:40:12 UTC,interest_earnings,USDC,0.000720,,,,,
+2020-09-20 10:39:48 UTC,interest_earnings,LINK,0.000321,,,,,
+2020-09-20 10:39:41 UTC,interest_earnings,XLM,0.000009,,,,,
+2020-09-20 10:38:55 UTC,interest_earnings,USD,0.02,,,,,
+2020-09-20 09:02:51 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-19 10:02:51 UTC,interest_earnings,USDC,0.000698,,,,,
+2020-09-19 10:02:23 UTC,interest_earnings,LINK,0.000311,,,,,
+2020-09-19 10:02:16 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-19 10:01:21 UTC,interest_earnings,USD,0.01,,,,,
+2020-09-19 09:00:10 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-19 08:57:19 UTC,blockchain_withdrawal,ETH,0.369041,,,,,0x2E2Ea30Ba045Df4bC38e80cF11E119E12e06C1C2
+2020-09-19 08:56:50 UTC,trade_buy,ETH,0.272492,,,USD,105.04,
+2020-09-18 10:12:03 UTC,interest_earnings,USDC,0.000696,,,,,
+2020-09-18 10:11:38 UTC,interest_earnings,LINK,0.000310,,,,,
+2020-09-18 10:11:32 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-18 10:11:13 UTC,interest_earnings,ETH,0.000011,,,,,
+2020-09-18 10:10:47 UTC,interest_earnings,USD,0.02,,,,,
+2020-09-18 09:01:10 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-17 10:25:01 UTC,interest_earnings,USDC,0.000711,,,,,
+2020-09-17 10:24:42 UTC,interest_earnings,LINK,0.000317,,,,,
+2020-09-17 10:24:37 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-17 10:24:20 UTC,interest_earnings,ETH,0.000011,,,,,
+2020-09-17 10:23:59 UTC,interest_earnings,USD,0.02,,,,,
+2020-09-17 09:07:59 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-16 10:05:24 UTC,interest_earnings,USDC,0.000691,,,,,
+2020-09-16 10:04:59 UTC,interest_earnings,LINK,0.000308,,,,,
+2020-09-16 10:04:53 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-16 10:04:37 UTC,interest_earnings,ETH,0.000011,,,,,
+2020-09-16 10:04:12 UTC,interest_earnings,USD,0.01,,,,,
+2020-09-16 09:19:12 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-16 03:20:51 UTC,trade_buy,ETH,0.096517,,,USD,35.01,
+2020-09-15 10:27:28 UTC,interest_earnings,USDC,0.000705,,,,,
+2020-09-15 10:26:43 UTC,interest_earnings,LINK,0.000314,,,,,
+2020-09-15 10:26:30 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-15 10:24:43 UTC,interest_earnings,USD,0.01,,,,,
+2020-09-15 09:06:09 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-14 15:06:15 UTC,trade_buy,LINK,2.811754,,,USD,35.01,
+2020-09-14 10:21:05 UTC,interest_earnings,USDC,0.000710,,,,,
+2020-09-14 10:20:36 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-14 10:19:52 UTC,interest_earnings,USD,0.01,,,,,
+2020-09-14 09:05:15 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-14 03:51:38 UTC,blockchain_withdrawal,ETH,0.377000,,,,,0x2E2Ea30Ba045Df4bC38e80cF11E119E12e06C1C2
+2020-09-14 03:50:06 UTC,trade_buy,ETH,0.377000,,,USD,140.07,
+2020-09-13 10:02:44 UTC,interest_earnings,USDC,0.000684,,,,,
+2020-09-13 10:02:15 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-13 10:01:29 UTC,interest_earnings,USD,0.03,,,,,
+2020-09-13 09:01:23 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-12 10:37:26 UTC,interest_earnings,USDC,0.000718,,,,,
+2020-09-12 10:36:54 UTC,interest_earnings,XLM,0.000009,,,,,
+2020-09-12 10:36:16 UTC,interest_earnings,USD,0.02,,,,,
+2020-09-12 09:17:07 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-11 10:02:14 UTC,interest_earnings,USDC,0.000698,,,,,
+2020-09-11 10:01:51 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-11 10:01:21 UTC,interest_earnings,USD,0.01,,,,,
+2020-09-11 09:02:39 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-10 10:08:40 UTC,interest_earnings,USDC,0.000684,,,,,
+2020-09-10 10:08:11 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-10 10:07:31 UTC,interest_earnings,USD,0.01,,,,,
+2020-09-10 09:23:29 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-10 04:07:42 UTC,blockchain_withdrawal,ETH,5.000453,,,,,0x2E2Ea30Ba045Df4bC38e80cF11E119E12e06C1C2
+2020-09-09 21:39:51 UTC,blockchain_withdrawal,DAI,102.787012,,,,,0x2E2Ea30Ba045Df4bC38e80cF11E119E12e06C1C2
+2020-09-09 21:37:40 UTC,trade_buy,DAI,34.445697,,,USD,35.52,
+2020-09-09 10:43:43 UTC,interest_earnings,DAI,0.010255,,,,,
+2020-09-09 10:43:39 UTC,interest_earnings,USDC,0.000698,,,,,
+2020-09-09 10:43:05 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-09 10:42:43 UTC,interest_earnings,ETH,0.000224,,,,,
+2020-09-09 10:42:21 UTC,interest_earnings,USD,0.01,,,,,
+2020-09-09 08:42:54 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-09 08:24:20 UTC,blockchain_withdrawal,LINK,200.020000,,,,,0x6f5708015f20b9e1afa937c83fc42bfd2214aa2c
+2020-09-08 19:47:30 UTC,bank_withdrawal,USD,1690.00,,,,,OnPoint Community Credit Union 5831
+2020-09-08 10:49:12 UTC,interest_earnings,DAI,0.010513,,,,,
+2020-09-08 10:49:06 UTC,interest_earnings,USDC,0.000715,,,,,
+2020-09-08 10:48:41 UTC,interest_earnings,LINK,0.022711,,,,,
+2020-09-08 10:48:32 UTC,interest_earnings,XLM,0.000009,,,,,
+2020-09-08 10:48:03 UTC,interest_earnings,ETH,0.000229,,,,,
+2020-09-08 10:47:34 UTC,interest_earnings,USD,0.37,,,,,
+2020-09-08 09:37:36 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-07 23:10:20 UTC,trade_buy,LINK,200.000000,,,USD,2537.90,
+2020-09-07 23:09:25 UTC,trade_buy,ETH,5.000000,,,USD,1784.88,
+2020-09-07 20:03:50 UTC,trade_sell,ETH,7.573956,,,USD,2576.72,
+2020-09-07 19:56:22 UTC,trade_sell,ETH,10.000000,,,USD,3401.20,
+2020-09-07 18:27:53 UTC,trade_buy,DAI,68.320547,,,USD,70.02,
+2020-09-07 10:18:26 UTC,interest_earnings,USDC,0.000694,,,,,
+2020-09-07 10:18:09 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-07 10:17:58 UTC,interest_earnings,ETH,0.002509,,,,,
+2020-09-07 10:17:43 UTC,interest_earnings,USD,0.01,,,,,
+2020-09-07 09:11:56 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-06 23:19:06 UTC,blockchain_withdrawal,ETH,3.000000,,,,,0xBC637Cb012e76f7E35C0Ff5C3F0aCB89893B6E97
+2020-09-06 10:31:56 UTC,interest_earnings,USDC,0.000685,,,,,
+2020-09-06 10:31:38 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-06 10:31:25 UTC,interest_earnings,ETH,0.002863,,,,,
+2020-09-06 10:31:02 UTC,interest_earnings,USD,0.01,,,,,
+2020-09-06 09:24:16 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-05 16:04:31 UTC,trade_buy,ETH,0.192624,,,USD,70.02,
+2020-09-05 11:02:29 UTC,interest_earnings,USDC,0.000725,,,,,
+2020-09-05 11:02:08 UTC,interest_earnings,XLM,0.000009,,,,,
+2020-09-05 11:00:15 UTC,interest_earnings,ETH,0.002895,,,,,
+2020-09-05 10:33:55 UTC,interest_earnings,USD,0.02,,,,,
+2020-09-05 09:27:43 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-04 15:41:39 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-04 10:10:20 UTC,interest_earnings,USDC,0.000692,,,,,
+2020-09-04 10:10:03 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-04 10:09:52 UTC,interest_earnings,ETH,0.002814,,,,,
+2020-09-04 00:17:30 UTC,trade_buy,ETH,2.543952,,,USD,1000.00,
+2020-09-04 00:16:59 UTC,bank_deposit,USD,1000.00,,,,,OnPoint Community Credit Union 5831
+2020-09-03 10:26:46 UTC,interest_earnings,USDC,0.000706,,,,,
+2020-09-03 10:26:30 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-03 10:26:18 UTC,interest_earnings,ETH,0.002584,,,,,
+2020-09-03 09:41:41 UTC,trade_buy,ETH,1.204813,,,USD,535.00,
+2020-09-03 09:13:47 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-02 23:39:03 UTC,bank_deposit,USD,500.00,,,,,OnPoint Community Credit Union 5831
+2020-09-02 14:45:43 UTC,trade_buy,ETH,0.079027,,,USD,35.01,
+2020-09-02 10:13:44 UTC,interest_earnings,USDC,0.000682,,,,,
+2020-09-02 10:13:23 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-02 10:13:06 UTC,interest_earnings,ETH,0.002356,,,,,
+2020-09-02 10:12:43 UTC,interest_earnings,USD,0.01,,,,,
+2020-09-02 09:36:41 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-09-01 11:16:47 UTC,trade_buy,ETH,10.796961,,,USD,5141.16,
+2020-09-01 10:49:56 UTC,interest_earnings,USDC,0.000706,,,,,
+2020-09-01 10:49:19 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-09-01 10:48:56 UTC,interest_earnings,ETH,0.001215,,,,,
+2020-09-01 10:48:19 UTC,interest_earnings,USD,1.11,,,,,
+2020-09-01 10:25:45 UTC,trade_buy,ETH,10.498057,,,USD,5000.00,
+2020-09-01 10:13:23 UTC,bank_deposit,USD,10000.00,,,,,OnPoint Community Credit Union 6673
+2020-09-01 09:30:31 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-08-31 10:37:14 UTC,interest_earnings,USDC,0.000711,,,,,
+2020-08-31 10:36:50 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-08-31 10:36:36 UTC,interest_earnings,ETH,0.000028,,,,,
+2020-08-31 10:36:05 UTC,interest_earnings,USD,0.02,,,,,
+2020-08-31 09:49:42 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-08-30 10:14:06 UTC,interest_earnings,USDC,0.000695,,,,,
+2020-08-30 10:13:14 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-08-30 10:12:59 UTC,interest_earnings,ETH,0.000023,,,,,
+2020-08-30 10:12:40 UTC,interest_earnings,USD,0.01,,,,,
+2020-08-30 09:11:17 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-08-29 10:23:15 UTC,interest_earnings,USDC,0.000710,,,,,
+2020-08-29 10:23:00 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-08-29 10:22:50 UTC,interest_earnings,ETH,0.000023,,,,,
+2020-08-29 10:22:37 UTC,interest_earnings,USD,0.01,,,,,
+2020-08-29 05:53:47 UTC,bank_deposit,USD,35.00,,,,,OnPoint Community Credit Union 5831
+2020-08-28 10:01:42 UTC,interest_earnings,USDC,0.000684,,,,,
+2020-08-28 10:01:22 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-08-28 10:01:08 UTC,interest_earnings,ETH,0.000022,,,,,
+2020-08-28 05:23:13 UTC,blockchain_withdrawal,ETH,0.400000,,,,,0xe8491950e2f8fc91a28d63319ca7d18431367119
+2020-08-27 10:32:27 UTC,interest_earnings,USDC,0.000706,,,,,
+2020-08-27 10:32:06 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-08-27 10:31:46 UTC,interest_earnings,ETH,0.000061,,,,,
+2020-08-27 07:05:16 UTC,trade_buy,ETH,0.255809,,,USD,100.00,
+2020-08-27 07:05:29 UTC,bank_deposit,USD,100.00,,,,,OnPoint Community Credit Union 5831
+2020-08-27 07:04:36 UTC,blockchain_withdrawal,ETH,0.500000,,,,,0xBC637Cb012e76f7E35C0Ff5C3F0aCB89893B6E97
+2020-08-27 03:22:42 UTC,blockchain_withdrawal,ETH,2.000000,,,,,0x2E2Ea30Ba045Df4bC38e80cF11E119E12e06C1C2
+2020-08-26 10:16:47 UTC,interest_earnings,USDC,0.000689,,,,,
+2020-08-26 10:16:26 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-08-26 10:16:08 UTC,interest_earnings,ETH,0.000268,,,,,
+2020-08-26 00:22:00 UTC,blockchain_withdrawal,USDC,115.000000,,,,,0x6f5708015f20b9e1afa937c83fc42bfd2214aa2c
+2020-08-25 10:35:43 UTC,interest_earnings,USDC,0.024292,,,,,
+2020-08-25 10:35:26 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-08-25 10:35:06 UTC,interest_earnings,ETH,0.000275,,,,,
+2020-08-25 03:59:42 UTC,blockchain_deposit,USDC,118.427946,,,,,
+2020-08-24 10:15:54 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-08-24 10:15:44 UTC,interest_earnings,ETH,0.000275,,,,,
+2020-08-24 02:21:45 UTC,blockchain_deposit,ETH,2.654858,,,,,
+2020-08-23 10:00:43 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-08-23 10:00:29 UTC,interest_earnings,ETH,0.000021,,,,,
+2020-08-23 05:24:15 UTC,blockchain_withdrawal,ETH,0.200000,,,,,0x2E2Ea30Ba045Df4bC38e80cF11E119E12e06C1C2
+2020-08-23 00:25:05 UTC,trade_buy,ETH,0.190407,,,LINK,5.000000,
+2020-08-22 19:51:12 UTC,blockchain_deposit,LINK,5.000000,,,,,
+2020-08-22 10:09:50 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-08-22 10:09:40 UTC,interest_earnings,ETH,0.000022,,,,,
+2020-08-22 03:37:42 UTC,blockchain_withdrawal,ATOM,17.720000,,,,,cosmos1je0smsjd0dw3qtk2rve4gqa8xnthl790cqqa3h
+2020-08-22 03:31:20 UTC,trade_buy,ATOM,17.723916,,,USD,100.02,
+2020-08-21 10:24:03 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-08-21 10:23:53 UTC,interest_earnings,ETH,0.000022,,,,,
+2020-08-21 10:23:34 UTC,interest_earnings,USD,0.02,,,,,
+2020-08-20 15:50:54 UTC,bank_deposit,USD,100.00,,,,,OnPoint Community Credit Union 6673
+2020-08-20 10:30:30 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-08-20 10:29:50 UTC,interest_earnings,ETH,0.000023,,,,,
+2020-08-19 10:24:58 UTC,interest_earnings,XLM,0.000008,,,,,
+2020-08-19 10:24:49 UTC,interest_earnings,ETH,0.000023,,,,,
+2020-08-19 05:45:08 UTC,trade_buy,ETH,0.239126,,,USD,100.00,
+2020-08-19 05:04:59 UTC,bank_deposit,USD,100.00,,,,,OnPoint Community Credit Union 5831
+2020-08-19 03:40:51 UTC,blockchain_withdrawal,XLM,4964.000000,,,,,GAHK7EEG2WWHVKDNT4CEQFZGKF2LGDSW2IVM4S5DP42RBW3K6BTODB4A memo 1034222178
+2020-08-18 10:26:13 UTC,interest_earnings,XLM,0.382135,,,,,
+2020-08-17 10:15:51 UTC,interest_earnings,XLM,0.377220,,,,,
+2020-08-16 11:37:23 UTC,trade_buy,XLM,4874.870812,,,USD,520.23,
+2020-08-16 10:24:06 UTC,interest_earnings,XLM,0.006705,,,,,
+2020-08-16 10:23:40 UTC,interest_earnings,USD,0.11,,,,,
+2020-08-15 10:36:19 UTC,interest_earnings,XLM,0.006821,,,,,
+2020-08-15 10:35:49 UTC,interest_earnings,USD,0.11,,,,,
+2020-08-15 01:48:47 UTC,blockchain_withdrawal,XLM,400.000000,,,,,GBB34FHSVNIW7NKCSKYNY7JOERXAWW7A54DGF3V4PRZVZEZOM7UNYHOV memo Block card from anchorusd
+2020-08-15 01:33:57 UTC,bank_deposit,USD,500.00,,,,,OnPoint Community Credit Union 5831
+2020-08-14 10:23:50 UTC,interest_earnings,XLM,0.036920,,,,,
+2020-08-14 10:23:25 UTC,interest_earnings,USD,0.00,,,,,
+2020-08-14 05:28:12 UTC,bank_deposit,USD,20.00,,,,,OnPoint Community Credit Union 5831
+2020-08-14 05:26:09 UTC,trade_buy,XLM,488.428659,,,USD,50.01,
+2020-08-13 10:39:05 UTC,interest_earnings,USD,0.01,,,,,
+2020-08-13 08:23:59 UTC,bank_deposit,USD,50.00,,,,,OnPoint Community Credit Union 5831
+2020-07-09 07:11:37 UTC,blockchain_withdrawal,USDC,49.940846,,,,,0xBC637Cb012e76f7E35C0Ff5C3F0aCB89893B6E97
+2020-07-09 07:03:15 UTC,trade_buy,USDC,49.940846,,,USD,50.09,
+2020-07-08 10:08:05 UTC,interest_earnings,USD,0.01,,,,,
+2020-07-07 10:17:19 UTC,interest_earnings,USD,0.01,,,,,
+2020-07-06 10:29:36 UTC,interest_earnings,USD,0.01,,,,,
+2020-07-05 10:28:10 UTC,interest_earnings,USD,0.01,,,,,
+2020-07-04 10:03:38 UTC,interest_earnings,USD,0.01,,,,,
+2020-07-03 10:14:54 UTC,interest_earnings,USD,0.01,,,,,
+2020-07-02 10:06:22 UTC,interest_earnings,USD,0.01,,,,,
+2020-07-01 10:04:19 UTC,interest_earnings,USD,0.01,,,,,
+2020-07-01 10:04:19 UTC,interest_earnings,USD,0.00,,,,,
+2020-06-30 14:52:15 UTC,bank_deposit,USD,50.00,,,,,OnPoint Community Credit Union 5831
