@@ -28,8 +28,8 @@ def translate(date: str, transaction: str, currency: str, amount: str, account: 
     return get_date(date) + switcher[transaction] + ',{0}'.format(account)
 
 
-with open('sample/cointracker_csv_import_v4 (3).csv', 'r', newline='') as cointracker:
-    with open('inputs/anchorusd_transactions.csv', 'r', newline='') as anchorcsv:
+with open('../sample/cointracker_csv_import_v4 (3).csv', 'r', newline='') as cointracker:
+    with open('../inputs/anchorusd_transactions.csv', 'r', newline='') as anchorcsv:
         with open('output/translated.csv', 'w+') as newFile:
             anchorRead: str = anchorcsv.readline()
             output = [
