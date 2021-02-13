@@ -2,3 +2,5 @@
 output/*
 /venv
 /venv/
+inputs*
+output*

@@ -3,9 +3,16 @@ from typing import Dict
 
 
 def get_date(time_stamp: str) -> str:
-    strp_time: datetime = datetime.strptime(time_stamp, '%Y-%m-%d %H:%M:%S')
-    utc_from_timestamp = datetime.fromtimestamp(strp_time.timestamp())
-    return str(datetime.strptime(str(utc_from_timestamp), '%Y-%m-%d %H:%M:%S'))
+    try:
+        strp_time: datetime = datetime.strptime(time_stamp, '%Y-%m-%d %H:%M:%S')
+        utc_from_timestamp = datetime.fromtimestamp(strp_time.timestamp())
+        return str(datetime.strptime(str(utc_from_timestamp), '%Y-%m-%d %H:%M'))
+    except:
+        return time_stamp
+
+
+def column(v):
+    return v + 1
 
 
 transactions = ['bank_deposit', 'bank_withdrawal', 'blockchain_deposit', 'blockchain_withdrawal', 'interest_earnings',
@@ -30,15 +37,15 @@ def translate(date: str, transaction: str, currency: str, amount: str, account: 
 
 with open('../sample/cointracker_csv_import_v4 (3).csv', 'r', newline='') as cointracker:
     with open('../inputs/anchorusd_transactions.csv', 'r', newline='') as anchorcsv:
-        with open('output/translated.csv', 'w+') as newFile:
+        with open('../output/translated.csv', 'w+') as newFile:
             anchorRead: str = anchorcsv.readline()
             output = [
                 'Date,Received Quantity,Received Currency,Sent Quantity,Sent Currency,Fee Amount,Fee Currency,Tag\n']
             for row in anchorcsv:
                 items = row.split(',')
-
-                output += translate(items[0].replace(" UTC", ""), items[1], items[2], items[3], items[8], items[6],
-                                    items[7])
+                if items == "executed":
+                    output += translate(items[1].replace(" UTC", ""), items[2], items[3], items[4], items[9], items[7],
+                                        items[8])
             newFile.writelines(output)
         newFile.close()
 
