@@ -43,7 +43,7 @@ with open('../sample/cointracker_csv_import_v4 (3).csv', 'r', newline='') as coi
                 'Date,Received Quantity,Received Currency,Sent Quantity,Sent Currency,Fee Amount,Fee Currency,Tag\n']
             for row in anchorcsv:
                 items = row.split(',')
-                if items == "executed":
+                if items[0] == "executed":
                     output += translate(items[1].replace(" UTC", ""), items[2], items[3], items[4], items[9], items[7],
                                         items[8])
             newFile.writelines(output)
